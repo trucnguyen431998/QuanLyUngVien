@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:14 +0700] "GET / HTTP/1.1" 200 365 http-bio-8080-exec-1 758
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:18 +0700] "GET /resource/css/style.css;jsessionid=A30EFE22BC6D202967E1BE448D5007FC HTTP/1.1" 200 168 http-bio-8080-exec-2 428
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:18 +0700] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:29 +0700] "GET / HTTP/1.1" 200 365 http-bio-8080-exec-5 7
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:31 +0700] "GET /resource/css/style.css;jsessionid=3373A4CF21B844E54CA4BD5C3E283675 HTTP/1.1" 200 168 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:31 +0700] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [25/Jul/2019:08:01:34 +0700] "GET /login HTTP/1.1" 200 3309 http-bio-8080-exec-8 1563

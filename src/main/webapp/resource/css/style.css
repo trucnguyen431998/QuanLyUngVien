@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.huhu
+{
+	background-color:green;
+	width: auto;
+	height: auto;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	font-size: 2em;
+}
